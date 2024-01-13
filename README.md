@@ -1,4 +1,4 @@
-Python-auto-clicker
+#Python-auto-clicker
 
 By running this program endlessly and consecutively, your system's left click will work.
 
